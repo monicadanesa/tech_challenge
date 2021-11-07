@@ -1,0 +1,8 @@
+{
+    "projectId": "crypto.com tech challenge",
+    "viewportWidth": 1920,
+    "viewportHeight": 1200,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://crypto.com"
+}
